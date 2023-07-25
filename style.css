@@ -1,0 +1,55 @@
+body{  
+    background-image:url(kakashi-hatake-5120x2880-12159.jpg);
+}
+h1{
+   color: #920898;
+   font-size: 25px;
+}
+h3{
+    color: #920898;
+    font-size: 17px;
+}
+header{
+  height: 10vh;
+  border: solid #fff;
+  background-color: #5e95e4;
+  color: white;
+  
+}
+footer{
+  height: 10vh;
+  border: solid #fff;
+  background-color: #5e95e4;
+  color: white;
+  position: relative;
+}
+
+div{
+  width: 100%;
+  height: 100%; 
+}
+input{
+    font-style: italic;
+    font-style: bold;
+}
+#email{
+    width: 30px;
+}
+button{
+    width: 20px;
+    height: 10px;
+    background-color: #c3158e;
+}
+table,th,td{
+    border-collapse: collapse 1px soild rgb(0, 0, 0);
+    margin: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    width: 90%;
+    background-color: #ab15c3;
+}
+ol{
+    color: #0ef047;
+}
+ul{
+    color: #0e72f0;
+}
